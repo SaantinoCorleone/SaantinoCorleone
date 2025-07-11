@@ -1,4 +1,7 @@
 # ¡Hola! 
+<p align="center">
+  <img src="./Ahandsomemanwithblackhairandglassesprogrammingwithanimeanimationstylemuscularbuildfromgoingtothegymsittingatadeskdynamicposevibrantcolorsdetailedbackgroundofafuturisticcoding-ezgif.com-video-to-gif-converter" alt="Yo programando anime" width="300"/>
+</p>
 
 Soy **Andy Santiago Rocha Claure**  
 Estudio Ingeniería de Sistemas, tengo 20 años, mi hobby es entrenar en el gimnasio, me encantan los videojuegos especificamente los de PlayStation.
