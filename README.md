@@ -1,6 +1,7 @@
 # ¡Hola! 
 <p align="center">
-  <img src="./"C:\Users\rsant\Downloads\Ahandsomemanwithblackhairandglassesprogrammingwithanimeanimationstylemuscularbuildfromgoingtothegymsittingatadeskdynamicposevibrantcolorsdetailedbackgroundofafuturisticcoding-ezgif.com-video-to-gif-converter.gif" alt="Yo" width="300"/>
+  <img src="https://github.com/SaantinoCorleone/SaantinoCorleone/blob/main/andy-anime.gif?raw=true" alt="Yo" width="300">
+
 </p>
 
 Soy **Andy Santiago Rocha Claure**  
