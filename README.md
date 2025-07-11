@@ -1,6 +1,6 @@
 # ¡Hola! 
 <p align="center">
-  <img src="SantinoCorleone_Gif"?raw=true" alt="Yo" width="300">
+  <img src="C:\Users\rsant\OneDrive\Escritorio\Santi\SantinoCorleone_Gif"?raw=true" alt="Yo" width="300">
 
 </p>
 
