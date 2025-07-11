@@ -16,7 +16,3 @@ Nada como un buen clásico contra el Madrid para acelerar el corazón 😅⚽�
 
 ---
 
-### 📫 Si compartes mis gustos o simplemente quieres decir *hola*, ¡conversemos! 😄
-
-> _"El conocimiento se entrena como un músculo. Si lo ignoras, se atrofia. Si lo usas, crece."_ 💡🧠💪
-
